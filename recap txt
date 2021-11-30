@@ -1,0 +1,7 @@
+Final:
+is a keyword in java that we can use with classes fields and methods
+It's non access modifier.
+1) when used with classes those classes can not be inherited to prevent
+overuse of inheritance.
+2) when used with methods that method can not be overriden in child classes.
+3) when used with fields we can not change the value of that field.
