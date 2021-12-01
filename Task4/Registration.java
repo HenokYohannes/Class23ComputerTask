@@ -57,7 +57,6 @@ public void setUserName(String userName){
 
     }
 
-
         public static void main(String[] args) {
 
         Registration registration=new Registration();
